@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🐱', '😽']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I LOVE YOU NGAAAAAAAAAAAAAAAAAAA"           // Secret hover message
+            secretAnswer: "I LOVE YOU NGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
